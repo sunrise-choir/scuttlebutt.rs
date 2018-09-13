@@ -7,7 +7,7 @@
     "install": "gitbook install",
     "start": "gitbook serve",
     "build": "gitbook build",
-    "push": "gh-pages -d _book",
+    "push": "gh-pages --repo git@github.com:ssbrs/ssbrs.github.io --branch master --dist _book",
     "deploy": "npm-run-all -s build push"
   },
   "repository": {
