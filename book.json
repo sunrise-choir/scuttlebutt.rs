@@ -1,0 +1,22 @@
+{
+  "author": "rusty sunrise choir",
+  "description": "documentation for the Scuttlebutt protocol implemented in Rust",
+  "gitbook": "3.x.x",
+  "language": "en",
+  "plugins": [
+  ],
+  "pluginsConfig": {
+    "fontSettings": {
+      "theme": "light"
+    }
+  },
+  "structure": {
+    "readme": "readme.md",
+    "summary": "summary.md",
+    "glossary": "glossary.md"
+  },
+  "styles": {
+    "website": "assets/web.css"
+  },
+  "title": "Scuttlebutt in Rust"
+}
